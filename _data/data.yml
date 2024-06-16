@@ -15,19 +15,19 @@ sidebar:
     # Sidebar links
     email: valaboj1@msu.edu
     phone: 313 627 2860
-    timezone: 
-    citizenship:
+    #timezone: 
+    #citizenship:
     website: annikavalaboju.github.io
     linkedin: annikavalaboju
-    xing: 
+    #xing: 
     github: annikavalaboju
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: 
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://drive.google.com/file/d/1I-rtJ7-dqs-3qtNI9s_Y7SBl7C84r_A-/view?usp=sharing
 
     languages:
@@ -131,17 +131,17 @@ experiences:
             - Contributed to decision making processes during meetings
             - Participated in testing and debugging processes to identify and resolve issues
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
+#certifications:
+      #title: Certifications
+      #list:
+        - #name: CV Builder
+          #start: 2020
+          #end: 2021
+          #organization: Microsoft
+          #credentialid: 111-222
+          #credentialurl: www.google.com
+          #credentialname: Google
+          #details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh.
@@ -155,14 +155,14 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
+        - #name: Git learning
+          #start: 2019
+          #end:
+          #organization: Microsoft
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          #details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh.
