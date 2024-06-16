@@ -76,17 +76,18 @@ education:
             - Familiar with programming languages Python and Java
             - Experienced in developing and debugging software applications
             - Ability to work effectively in team environments and project collaboration
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: International Baccalaureate Diploma
+        school: International Academy
+        time: 2018 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Demonstrated commitement to academic success and well-rounded development,
+          completed rigorous curriculum that includes advanced courses in mathematics, science,
+          language, and literature. Developed critical thinking, research, and time management
+          skills throughout coursework and various projects. Actively partipated in extracirricular
+          activies, fostering leadership and collaboration. 
+            - Actively particpated in volunteering and community service tasks
+            - Member of STEM clubs and involvement in events
+            - Member of Robotics programming team
 
 experiences:
     title: Experiences
