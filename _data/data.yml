@@ -8,27 +8,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Annika Valaboju
+    tagline: Computer Science
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: valaboj1@msu.edu
+    phone: 313 627 2860
+    timezone: 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: annikavalaboju.github.io
+    linkedin: annikavalaboju
+    xing: 
+    github: annikavalaboju
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1I-rtJ7-dqs-3qtNI9s_Y7SBl7C84r_A-/view?usp=sharing
 
     languages:
       title: Languages
@@ -36,19 +36,19 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
+        - idiom: Hindi
           level: Professional
 
-        - idiom: Spanish
+        - idiom: Telugu
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Reading
           link:
 
-        - item: Snowboarding
+        - item: Running
           link:
 
         - item: Cooking
