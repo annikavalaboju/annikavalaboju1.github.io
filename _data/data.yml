@@ -66,17 +66,16 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelors in Computer Science
+        university: Michigan State University
+        time: 2022 - current
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Studying Computer Science. Developing skills in software development, algorithms
+          and data structures. Enthusiastic about learning and applying computer science principles, 
+          especially in network security, cryptography, and ethical hacking. 
+            - Familiar with programming languages Python and Java
+            - Experienced in developing and debugging software applications
+            - Ability to work effectively in team environments and project collaboration
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
