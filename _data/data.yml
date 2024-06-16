@@ -91,21 +91,18 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Pick Up
+        time: 2021 - 2022
+        company: Kroger
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Responsibilities included managing customer orders and ensuring timely and accurate
+          delivery. Trained new employees on department procedures, customer order standards, and
+          efficient order processing. Collaborated closely with other cashiers and team members to
+          operate and enhance customer experience. Developed strong communication, teamwork, 
+          and leadership skills while maintaining a high level of customer satisfaction
+          through attentive service and problem solving.
+            - Strong multitasking abilities, handling multiple orders and payments simultaneously
+            - Assisted in inventory management and stocking to ensure availability of products
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
