@@ -131,25 +131,25 @@ experiences:
             - Contributed to decision making processes during meetings
             - Participated in testing and debugging processes to identify and resolve issues
 
-#certifications:
-      #title: Certifications
-      #list:
-        - #name: CV Builder
-          #start: 2020
-          #end: 2021
-          #organization: Microsoft
-          #credentialid: 111-222
-          #credentialurl: www.google.com
-          #credentialname: Google
-          #details: |
-        - #name: Git learning
-          #start: 2019
-          #end:
-          #organization: Microsoft
-          #credentialid: 111-222
-          #credentialurl: www.github.com
-          #credentialname: Github
-          #details: |
+certifications:
+      title: Certifications
+      list:
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
 
 projects:
     title: Projects
